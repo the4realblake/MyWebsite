@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+.text{
+    font-family: 'Poiret One', cursive;
+}
+#mainParagraph{
+    padding-left:26%;
+    font-size: 16px;
+    font-family: 'Ubuntu Mono', monospace;
+}
